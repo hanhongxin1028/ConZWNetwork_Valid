@@ -1,4 +1,5 @@
 > ConZWNet: A Contrastive Learning-based Zero-Watermark Network for High Robustness and Distinguishability
+> You can download our validation tool from the release of the repository
 
 # 1. introduction
 
