@@ -3,13 +3,15 @@
 [![CN](https://img.shields.io/badge/🇨🇳_中文-FF0000?style=flat-square)](README.zh-CN.md)
 [![EN](https://img.shields.io/badge/🇺🇸_English-007ACC?style=flat-square)](README.md)
 
-# ConZWNetwork_Valid 🔬
+# ConZWNetwork 研究🔬
 
 </div>
 
 
-> ​**❗ 重要通知**  
-> 本工具为论文《ConZWNet: A Contrastive Learning-based Zero-Watermark Network for High Robustness and Distinguishability》的官方实现。源码和权重将在论文正式接收后全部公开，敬请期待！
+<div style="background-color: #f0f8ff; padding: 15px; border-left: 5px solid #8A2BE2; border-radius: 5px; margin: 20px 0;">
+  <strong style="color: #8A2BE2;">❗ 重要通知</strong><br>
+  本工具为论文《ConZWNet: A Contrastive Learning-based Zero-Watermark Network for High Robustness and Distinguishability》的官方实现。源码和权重将在论文正式接收后全部公开，敬请期待！
+</div>
 
 ## 🚀 如何使用
 
