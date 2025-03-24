@@ -8,7 +8,8 @@
 </div>
 
 > ​**❗ Important Notice**  
-> This tool is the official implementation of the paper *"ConZWNet: A Contrastive Learning-based Zero-Watermark Network for High Robustness and Distinguishability"*. The source code and weights will be fully released upon the paper's official acceptance. Stay tuned!
+> This tool is the official implementation of the paper *"ConZWNet: A Contrastive Learning-based Zero-Watermark Network for High Robustness and Distinguishability"*.
+> The source code will be fully released upon the paper's official acceptance. Stay tuned!
 
 ## 🚀 How to Use
 
