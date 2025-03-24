@@ -1,11 +1,7 @@
-# 📌 项目名称
-
 <details>
-<summary>🇨🇳 点击查看中文 README</summary>
+<summary>🌏 切换语言 | Switch Language</summary>
 
-## 📖 项目介绍
-这是一个示例 GitHub 仓库，支持中英文 README 切换。
+[🇨🇳 中文 README](#🇨🇳-点击查看中文-readme)  
+[🇬🇧 English README](#🇬🇧-click-to-view-english-readme)
 
-## 🚀 安装
-```bash
-pip install example
+</details>
