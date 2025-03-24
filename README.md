@@ -8,9 +8,14 @@
 </div>
 
 
-<div align="left" style="border: 2px solid #8A2BE2; padding: 10px; border-radius: 5px; margin: 20px 0;">
-  <strong>❗ 重要通知</strong><br>
-  本工具为论文《ConZWNet: A Contrastive Learning-based Zero-Watermark Network for High Robustness and Distinguishability》的官方实现，源码、权重将在论文接收后全部公开
+<div align="left" style="border: 2px solid #8A2BE2; padding: 15px; border-radius: 8px; margin: 20px 0; background-color: #f9f9f9;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <span style="font-size: 20px; color: #8A2BE2; margin-right: 10px;">❗</span>
+    <strong style="font-size: 18px; color: #8A2BE2;">重要通知</strong>
+  </div>
+  <div style="font-size: 14px; color: #333;">
+    本工具为论文《ConZWNet: A Contrastive Learning-based Zero-Watermark Network for High Robustness and Distinguishability》的官方实现。源码和权重将在论文正式接收后全部公开，敬请期待！
+  </div>
 </div>
 
 ## 🚀 如何使用
