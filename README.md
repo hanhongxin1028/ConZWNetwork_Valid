@@ -18,7 +18,7 @@
 
 1. ​**📥 Download the Tool**  
    Click the link below to download the latest `zip` file:  
-   [📦 ConZWNetwork_Valid.zip](https://github.com/hanhongxin1028/ConZWNetwork_Valid/releases/download/v1.0/ConZWNet_valid.zip)
+   [📦 ConZWNetwork_Valid.zip](https://github.com/hanhongxin1028/ConZWNetwork_Valid/releases/download/v1.0/ConZWNetwork_Valid.zip)
 
 2. ​**📂 File Description**  
    - `zeroWatermarkTest.exe`: The main executable file for running the tool.  
