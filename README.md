@@ -35,4 +35,5 @@
      - `Pred Copyright Label` indicates the label of the uploaded copyright image.  
      - `NC` represents the similarity between the two zero-watermarks.
 
-   ![🖼️ Example Image](https://github.com/user-attachments/assets/d3750887-5593-471e-9292-c417fc805a3f)
+
+![robust_test_example](https://github.com/user-attachments/assets/fa19df4a-585a-45f9-8485-9b05cbd39465)
