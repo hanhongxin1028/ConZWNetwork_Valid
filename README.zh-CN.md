@@ -18,7 +18,7 @@
 
 1. ​**📥 下载工具**  
    点击此链接直接下载最新的 `zip` 文件：  
-   [📦 ConZWNetwork_Valid.zip](https://github.com/hanhongxin1028/ConZWNetwork_Valid/releases/download/v1.0/ConZWNet_valid.zip)
+   [📦 ConZWNetwork_Valid.zip](https://github.com/hanhongxin1028/ConZWNetwork_Valid/releases/download/v1.0/ConZWNetwork_Valid.zip)
 
 2. ​**📂 文件说明**  
    - `zeroWatermarkTest.exe`: 主程序文件，用于运行工具。  
