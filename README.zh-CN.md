@@ -35,5 +35,6 @@
      - `Pred Copyright Label` 表示上传的版权图标签。  
      - `NC` 表示两个零水印之间的相似度。
 
-   ![🖼️ 示例图片](https://github.com/user-attachments/assets/d3750887-5593-471e-9292-c417fc805a3f)
+
+![robust_test_example](https://github.com/user-attachments/assets/e99fa319-7992-4630-b618-611b79d47702)
 
