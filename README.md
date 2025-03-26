@@ -5,9 +5,10 @@
 
 # ConZWNetwork Research 🔬
 
-</div>
+<!-- 校徽图片，调整大小并居中 -->
+<img src="https://github.com/user-attachments/assets/b68351e5-2dfc-49f5-b8fb-14ad5970e119" width="150" alt="nufe">
 
-![nufe](https://github.com/user-attachments/assets/b68351e5-2dfc-49f5-b8fb-14ad5970e119)
+</div>
 
 > ​**❗ Important Notice**  
 > This tool is the official implementation of the paper *"ConZWNet: A Contrastive Learning-based Zero-Watermark Network for High Robustness and Distinguishability"*.
