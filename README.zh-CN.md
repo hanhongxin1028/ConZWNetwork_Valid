@@ -4,6 +4,8 @@
 [![EN](https://img.shields.io/badge/🇺🇸_English-007ACC?style=flat-square)](README.md)
 
 # ConZWNetwork 研究🔬
+<!-- 校徽图片，调整大小并居中 -->
+<img src="https://github.com/user-attachments/assets/b68351e5-2dfc-49f5-b8fb-14ad5970e119" width="150" alt="nufe">
 
 </div>
 
